@@ -256,7 +256,12 @@ Feel free to fork the project and submit a pull request.
 
 # 📄 License
 
-This project is licensed under the **MIT License**.
+This project is proprietary software.
+
+© 2026 Viraj Dalvi. All Rights Reserved.
+
+This repository is published for demonstration and portfolio purposes only.
+Commercial use, redistribution, or modification without permission is prohibited.
 
 ---
 
